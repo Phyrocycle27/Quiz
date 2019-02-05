@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="playBtn">Играть</string>
+    <string name="titleOflist_themes">Здесь вы можете выбрать тематику теста</string>
+    <string name="questions">Вопросов</string>
+    <string name="questIs">Тест по теме:</string>
+    <string name="startBtnTxt">Поехали!</string>
+    <string name="warnStart">Вы действительно хотите начать игру? Отменить данное действие будет невозможно!</string>
+    <string name="questLen">Вопросов:</string>
+    <string name="currNumOfQuestion">Вопрос</string>
+    <string name="nextQuest">Следующий вопрос</string>
+    <string name="finish">Закончить тест</string>
+    <string name="help">Показать верный</string>
+</resources>

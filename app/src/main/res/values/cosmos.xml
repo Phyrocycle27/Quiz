@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cosmos_name">Космос</string>
+    <string-array name="cosmos_question_1">
+        <item>Какой русский учёный стал основоположником в сфере космонавтики?</item>
+        <item>Богомолов А.Ф.</item>
+        <item>Циолковский К.Э</item>
+        <item>Королёв С.П.</item>
+        <item>Глушко В.П.</item>
+    </string-array>
+
+    <string-array name="cosmos_question_2">
+        <item>Первый человек, покоривший звёздное небо - …</item>
+        <item>Гагарин Ю.А.</item>
+        <item>Поляков В.В.</item>
+        <item>Терешкова В.В.</item>
+        <item>Армстронг Н.О.</item>
+    </string-array>
+
+    <string-array name="cosmos_question_3">
+        <item>Сколько длился космический полет Ю. А. Гагарина?</item>
+        <item>1 час 48 минут</item>
+        <item>1 час 57 минут</item>
+        <item>1 час 21 минута</item>
+        <item>1 час 34 минуты</item>
+    </string-array>
+
+    <string-array name="cosmos_question_4">
+        <item>Как назывался космический корабль Ю. А. Гагарина?</item>
+        <item>Сервер</item>
+        <item>Юг</item>
+        <item>Восток</item>
+        <item>Запад</item>
+    </string-array>
+
+    <string-array name="cosmos_question_5">
+        <item>Первая в мире женщина-космонавт - …</item>
+        <item>Савицкая С.Е.</item>
+        <item>Кондакова Е.В.</item>
+        <item>Терешкова В.В.</item>
+        <item>Серова Е.О.</item>
+    </string-array>
+
+    <string-array name="cosmos_question_6">
+        <item>Кто первым вышел в открытый космос?</item>
+        <item>Гречко Г.М.</item>
+        <item>Титов Г.С.</item>
+        <item>Беляев П.И.</item>
+        <item>Леонов А.А.</item>
+    </string-array>
+
+    <string-array name="cosmos_question_7">
+        <item>Как называется русский космический корабль многоразового использования?</item>
+        <item>Протон</item>
+        <item>Метель</item>
+        <item>Союз</item>
+        <item>Буран</item>
+    </string-array>
+
+    <string-array name="cosmos_question_8">
+        <item>В атмосфере, какой из планет, кроме Земли, обнаружен озоновый слой?</item>
+        <item>Венера</item>
+        <item>Сатурн</item>
+        <item>Марс</item>
+        <item>Юпитер</item>
+    </string-array>
+
+    <string-array name="cosmos_question_9">
+        <item>В каком году был произведен запуск первого искусственного спутника Земли?</item>
+        <item>1948 г.</item>
+        <item>1957 г.</item>
+        <item>1958 г.</item>
+        <item>1962 г.</item>
+    </string-array>
+
+    <string-array name="cosmos_question_10">
+        <item>Как назывались автоматические межпланетные станции, которые в 1984–85 годы
+    исследовали Венеру и комету Галлея?</item>
+        <item>Венера</item>
+        <item>Вега</item>
+        <item>Пионер-Вернера</item>
+        <item>Маринер</item>
+    </string-array>
+
+    <string-array name="cosmos_question_11">
+        <item>Ближайшая звезда к планете Земля - …</item>
+        <item>Сириус</item>
+        <item>Бетельгейзе</item>
+        <item>Солнце</item>
+        <item>Полярная звезда</item>
+    </string-array>
+
+    <string-array name="cosmos_question_12">
+        <item>В каком созвездии находится Полярная звезда?</item>
+        <item>Малая медведица</item>
+        <item>Стрелец</item>
+        <item>Волк</item>
+        <item>Близнецы</item>
+    </string-array>
+
+    <string-array name="cosmos_question_13">
+        <item>На какой из планет бывают дожди из серной кислоты?</item>
+        <item>Марс</item>
+        <item>Венера</item>
+        <item>Нептун</item>
+        <item>Уран</item>
+    </string-array>
+
+    <string-array name="cosmos_question_14">
+        <item>На каких высотах (примерно) достигает максимума концентрация озона в
+    земной атмосфере?</item>
+        <item>12–15 км</item>
+        <item>15–17 км</item>
+        <item>17–20 км</item>
+        <item>20–23 км</item>
+    </string-array>
+
+    <string-array name="cosmos_question_15">
+        <item>Кто были первые космические путешественники?</item>
+        <item>Мыши</item>
+        <item>Дуся и Маруся</item>
+        <item>Белка и Стрелка</item>
+        <item>Бактерии</item>
+    </string-array>
+</resources>
